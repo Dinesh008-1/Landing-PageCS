@@ -1,0 +1,104 @@
+.paragraph1{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: "Lato", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+.paragraph2{
+    text-align:center;
+    font-size: 100px;
+    font-family: "Bangers", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+.paragraph7{
+    text-align: left;
+    font-size: 30px;
+    color: white;
+    font-family: "Lato", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.menu-bar
+{
+text-align:center;
+background-color: #800020;
+}
+.menu-bar ul
+{
+   display: inline-flex;
+   color:floralwhite
+}
+.menu-bar ul li
+{
+    font-family: Impact;
+    width: 120px;
+    margin: 15px;
+    padding: 10px;
+
+}
+
+.menu-bar ul li:hover
+{
+
+    background: floralwhite;
+    color: #000000;
+    border-radius:3px;
+}
+.paragraph5{
+    font-size: 20px;
+    font-family:Courier;
+    margin: 30px;
+    color: white;
+}
+
+
+
+.Here-we-go{
+    color: floralwhite;
+    background: #00FFFF;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 1000;
+    letter-spacing: 5px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-left: 1015px; 
+}
+.lets-go-btn:hover{
+    background: #C0C0C0;
+}
+
+.icons{
+    display: flex;
+    font-size: 3rem;
+    margin-top:0;
+    line-height: 0;
+    align-items: flex-end;
+    display: flex;
+    gap: 1px;
+    justify-content: center;
+    
+}
+
+.icons a { margin-right:75px; }
+
+.icons :hover{
+    transform: scale(1.5);
+}
+
+.site-footer{
+    background-color:#212121;
+    margin-top:5%;
+}
+
+.p1{
+    color: floralwhite;
+    font-size: larger;
+    padding-bottom: 10px;
+    
+}
